@@ -1,0 +1,18 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>AI Workbench Bridge</title>
+</head>
+<body>
+  <h1>AI Workbench Bridge</h1>
+  <p>
+    Personal-use application for transferring files between the owner's
+    Telegram/VPS workflow and Google Drive using rclone.
+  </p>
+
+  <p>
+    <a href="privacy.html">Privacy Policy</a>
+  </p>
+</body>
+</html>
